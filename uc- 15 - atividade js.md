@@ -45,12 +45,5 @@ Os alunos devem pesquisar sobre os principais frameworks JavaScript, entender su
 
 ---
 
-**Critérios de Avaliação:**
-- Clareza e profundidade das respostas sobre os frameworks (4 pontos)
-- Qualidade da apresentação (3 pontos)
-- Realização da instalação e execução do Node.js (3 pontos)
 
----
-
-Essa atividade ajudará os alunos a entenderem melhor o ecossistema JavaScript e a se familiarizarem com a configuração do ambiente de desenvolvimento.
 
