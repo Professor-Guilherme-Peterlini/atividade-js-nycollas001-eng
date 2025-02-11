@@ -38,11 +38,6 @@ Os alunos devem pesquisar sobre os principais frameworks JavaScript, entender su
 
 ---
 
-**Entrega:**
-- Data de entrega: [Definir a data]
-- Formato: Documento PDF contendo a pesquisa sobre os frameworks e os prints da instalação do Node.js.
-- Apresentação: Breve exposição dos frameworks escolhidos em sala de aula.
-
 ---
 
 
